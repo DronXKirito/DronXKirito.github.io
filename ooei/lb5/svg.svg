@@ -1,0 +1,44 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 600 600" id="SkJNt1lb7">
+    <style>
+        @-webkit-keyframes SkpyVKJeWm_Animation{0%{opacity: 0;}100%{opacity: 1;}}@keyframes SkpyVKJeWm_Animation{0%{opacity: 0;}100%{opacity: 1;}}@-webkit-keyframes H1cyVt1gb7_Animation{29.33%{opacity: 0;}60%{opacity: 1;}0%{opacity: 0;}100%{opacity: 1;}}@keyframes H1cyVt1gb7_Animation{29.33%{opacity: 0;}60%{opacity: 1;}0%{opacity: 0;}100%{opacity: 1;}}@-webkit-keyframes S1wyEYJlb7_Animation{29.67%{opacity: 0;}60%{opacity: 1;}0%{opacity: 0;}100%{opacity: 1;}}@keyframes S1wyEYJlb7_Animation{29.67%{opacity: 0;}60%{opacity: 1;}0%{opacity: 0;}100%{opacity: 1;}}@-webkit-keyframes SkV1NFkxb7_Animation{29.67%{opacity: 0;}60%{opacity: 1;}0%{opacity: 0;}100%{opacity: 1;}}@keyframes SkV1NFkxb7_Animation{29.67%{opacity: 0;}60%{opacity: 1;}0%{opacity: 0;}100%{opacity: 1;}}@-webkit-keyframes ByGyNF1gbQ_Animation{0%{opacity: 0;}20%{opacity: 1;}100%{opacity: 1;}}@keyframes ByGyNF1gbQ_Animation{0%{opacity: 0;}20%{opacity: 1;}100%{opacity: 1;}}#SkJNt1lb7 *{-webkit-animation-duration: 10s;animation-duration: 10s;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#rJQkEYkx-X{opacity: 1;fill: #7211bd;fill-opacity: 1;}#S1LkVt1lbX{opacity: 1;fill-opacity: 0;stroke: #000000;stroke-width: 1;stroke-opacity: 1;}#HJt1EFkxZm{opacity: 1;fill-opacity: 0;stroke: #000000;stroke-width: 1;stroke-opacity: 1;}#SJnJEY1l-7{opacity: 1;fill-opacity: 0;stroke: #000000;stroke-width: 1;stroke-opacity: 1;}#SyC14tklZm{opacity: 1;fill: #11bdb5;fill-opacity: 1;}#ByGyNF1gbQ{-webkit-animation-name: ByGyNF1gbQ_Animation;animation-name: ByGyNF1gbQ_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;opacity: 0;}#SkV1NFkxb7{-webkit-animation-name: SkV1NFkxb7_Animation;animation-name: SkV1NFkxb7_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;opacity: 0;}#S1wyEYJlb7{-webkit-animation-name: S1wyEYJlb7_Animation;animation-name: S1wyEYJlb7_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;opacity: 0;}#H1cyVt1gb7{-webkit-animation-name: H1cyVt1gb7_Animation;animation-name: H1cyVt1gb7_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;opacity: 0;}#SkpyVKJeWm{-webkit-animation-name: SkpyVKJeWm_Animation;animation-name: SkpyVKJeWm_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;opacity: 0;}
+    </style>
+    <defs>
+        <path d="M305.74 51.55L76.9 172.84L73.94 421.29L299.82 548.45L528.65 427.16L531.61 178.71L305.74 51.55Z" id="a1TrBfwfnW"/>
+        <path d="M528.67 425.78L76.89 173.8" id="c2E8lgNJw"/>
+        <path d="M73.96 419.91L531.6 179.66" id="gnC363In4"/>
+        <path d="M299.85 545.45L305.74 51.55" id="d1IcxgI4Xp"/>
+        <text id="aWjVksokz" x="388.02" y="199.48" font-size="146" font-family="Passero One" font-weight="normal" font-style="normal" letter-spacing="0" alignment-baseline="before-edge" transform="matrix(0.9999167643068031 0.012902110610784613 -0.011912736263585525 0.9999290408397559 -83.66349793235321 9.406133201346051)" style="line-height:100%" dominant-baseline="text-before-edge">
+            <tspan x="388.02" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge" text-anchor="middle">
+                ІВМ
+            </tspan>
+        </text>
+    </defs>
+    <g id="Skl14KkeWQ">
+        <g id="H1-kEFkgWQ">
+            <g id="ByGyNF1gbQ">
+                <use xlink:href="#a1TrBfwfnW" id="rJQkEYkx-X"/>
+            </g>
+            <g id="SkV1NFkxb7">
+                <g id="BkSkNKyeW7">
+                    <use xlink:href="#c2E8lgNJw" id="S1LkVt1lbX"/>
+                </g>
+            </g>
+            <g id="S1wyEYJlb7">
+                <g id="HyuJ4K1eZQ">
+                    <use xlink:href="#gnC363In4" id="HJt1EFkxZm"/>
+                </g>
+            </g>
+            <g id="H1cyVt1gb7">
+                <g id="ryjkEtyeW7">
+                    <use xlink:href="#d1IcxgI4Xp" id="SJnJEY1l-7"/>
+                </g>
+            </g>
+            <g id="SkpyVKJeWm">
+                <use xlink:href="#aWjVksokz" id="SyC14tklZm"/>
+            </g>
+        </g>
+    </g>
+    <script>
+        (function(){var a=document.querySelector('#SkJNt1lb7'),b=a.querySelectorAll('style'),c=function(d){b.forEach(function(f){var g=f.textContent;g&amp;&amp;(f.textContent=g.replace(/transform-box:[^;\r\n]*/gi,'transform-box: '+d))})};c('initial'),window.requestAnimationFrame(function(){return c('fill-box')})})();
+    </script>
+</svg>
